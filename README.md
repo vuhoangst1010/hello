@@ -17,7 +17,7 @@ If you want to start working on your project right away, you might want to try t
 ```bash
 cd hello/
 dfx help
-dfx config --help
+dfx config --help 1231231
 ```
 
 ## Running the project locally
